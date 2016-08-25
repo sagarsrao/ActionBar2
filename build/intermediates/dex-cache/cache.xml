@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\sumitranchi003\Downloads\ACD_AN_Session_13_Code\ActionBar2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\sumitranchi003\Downloads\ACD_AN_Session_13_Code\ActionBar2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_866fa4d3092651a9d9e90d16aecf1c1daab96f8c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\sumitranchi003\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\sumitranchi003\Downloads\ACD_AN_Session_13_Code\ActionBar2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_8a87ce1c4bd9a47bb431b9e1dabc629d3e1ff355\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\sumitranchi003\Downloads\ACD_AN_Session_13_Code\ActionBar2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="5640b021d83bf65e51e00ad4766f253b7517b452">
+        <dex dex="C:\Users\sumitranchi003\Downloads\ACD_AN_Session_13_Code\ActionBar2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_cef9be24056a5ccd8355bd585519e112b19d202f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\sumitranchi003\Downloads\ACD_AN_Session_13_Code\ActionBar2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\sumitranchi003\Downloads\ACD_AN_Session_13_Code\ActionBar2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.0_31b5cbedb881a3bb68c5596de32b810d690ceed2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\sumitranchi003\Downloads\ACD_AN_Session_13_Code\ActionBar2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="c37749fc4b80603cbe26b548d492c381fa9840c0">
+        <dex dex="C:\Users\sumitranchi003\Downloads\ACD_AN_Session_13_Code\ActionBar2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_efbae264ea5d66667c30d8bcf4eeeb46534ada3b\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,182 @@
+[
+    {
+        "outputFile": "C:\\Users\\sumitranchi003\\Downloads\\ACD_AN_Session_13_Code\\ActionBar2\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "C:\\Users\\sumitranchi003\\Downloads\\ACD_AN_Session_13_Code\\ActionBar2\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 44,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 43,
+                    "endOffset": 139
+                },
+                "from": {
+                    "file": "C:\\Users\\sumitranchi003\\Downloads\\ACD_AN_Session_13_Code\\ActionBar2\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 43,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 144,
+                    "endColumn": 57,
+                    "endOffset": 197
+                },
+                "from": {
+                    "file": "C:\\Users\\sumitranchi003\\Downloads\\ACD_AN_Session_13_Code\\ActionBar2\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 202,
+                    "endColumn": 55,
+                    "endOffset": 253
+                },
+                "from": {
+                    "file": "C:\\Users\\sumitranchi003\\Downloads\\ACD_AN_Session_13_Code\\ActionBar2\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 258,
+                    "endColumn": 53,
+                    "endOffset": 307
+                },
+                "from": {
+                    "file": "C:\\Users\\sumitranchi003\\Downloads\\ACD_AN_Session_13_Code\\ActionBar2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 53,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 312,
+                    "endColumn": 37,
+                    "endOffset": 345
+                },
+                "from": {
+                    "file": "C:\\Users\\sumitranchi003\\Downloads\\ACD_AN_Session_13_Code\\ActionBar2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 146,
+                        "endColumn": 37,
+                        "endOffset": 179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 350,
+                    "endColumn": 35,
+                    "endOffset": 381
+                },
+                "from": {
+                    "file": "C:\\Users\\sumitranchi003\\Downloads\\ACD_AN_Session_13_Code\\ActionBar2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 35,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 386,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 672
+                },
+                "from": {
+                    "file": "C:\\Users\\sumitranchi003\\Downloads\\ACD_AN_Session_13_Code\\ActionBar2\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 677,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 832
+                },
+                "from": {
+                    "file": "C:\\Users\\sumitranchi003\\Downloads\\ACD_AN_Session_13_Code\\ActionBar2\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]
